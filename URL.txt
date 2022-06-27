@@ -1,0 +1,2 @@
+URL Dataset : https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset
+URL Apps : https://cvd-xray.herokuapp.com/

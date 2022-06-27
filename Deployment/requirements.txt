@@ -1,0 +1,4 @@
+waitress
+numpy
+streamlit
+tensorflow-cpu
